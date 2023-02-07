@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RUMI20
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning right now C
-- 💞️ I’m looking to collaborate on @Aarzoo75...
+- 🌱 I’m currently learning right now js
 
 
 <!---
